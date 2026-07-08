@@ -58,6 +58,8 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 **Blockchain Research** — Published, European Chemical Bulletin
 
 `Ethereum` `Solidity` `Smart Contracts` `Web3.js`
+**[Advanced Generation of Private and Community Crowdfunding Platform for Investors](https://www.eurchembull.com/archives/volume-12/special%20issue-10/14115)** — Published, European Chemical Bulletin
+`Ethereum` `Solidity` `Smart Contracts` `Web3.js`
 
 ---
 
@@ -80,5 +82,5 @@ Data Engineer · AI Engineer · ML Engineer
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajanee_Shenkar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajanee-shenkar-a1862626b/)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rajanee.shenkar3444/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rajanee.shenkar3444/vizzes)
 [![Email](https://img.shields.io/badge/Email-shenkarrajanee%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:shenkarrajanee@gmail.com)
