@@ -10,7 +10,7 @@ Currently finished my M.S. in Data Science at Stevens Institute of Technology an
 ```python
 class RajaneeS:
     location  = "Jersey City → NYC"
-    roles     = ["Data Engineer", "AI Engineer", "ML Developer"]
+    roles     = ["Data Science", "Data Analyst", "ML Developer"]
     education = "M.S. Data Science — Stevens Institute of Technology"
     published = "Blockchain research — European Chemical Bulletin"
 
