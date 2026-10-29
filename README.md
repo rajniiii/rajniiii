@@ -66,7 +66,7 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 
 ### Open to full-time roles
 
-Data Engineer · AI Engineer · ML Engineer
+Data Science · Data Analyst · ML Engineer
 
 ---
 
