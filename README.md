@@ -61,17 +61,6 @@ Urban agriculture platform for NYC residents — finds idle city land, runs real
 **[Advanced Generation of Private and Community Crowdfunding Platform for Investors](https://www.eurchembull.com/archives/volume-12/special%20issue-10/14115)** — Published, European Chemical Bulletin
 `Ethereum` `Solidity` `Smart Contracts` `Web3.js`
 
----
-
-### Experience
- 
-**Stevens Institute of Technology** — Graduate Assistant, Office of the Provost
- 
-**DigitalDose** — Data-Focused Backend Developer & Analyst
- 
-**Yibe** — Data Engineer
- 
-**Iraje Software** — Application Support Analyst
 
 ---
 
