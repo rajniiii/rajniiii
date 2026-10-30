@@ -1,7 +1,7 @@
 # Hi, I'm Rajanee 👋
 ### I'm glad you're here
 
-I'm a Data and AI Engineer - I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that people can actually use.
+I'm a Data Science and Analytics Engineer - I build pipelines that move data reliably, RAG systems that retrieve accurately, and full-stack products that people can actually use.
 
 Currently finished my M.S. in Data Science at Stevens Institute of Technology and actively looking for full-time roles.
 
